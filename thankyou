@@ -1,2 +1,2 @@
-text.text = updateVersion;
+text.text = 'this was edited live';
 text.x += 100;
