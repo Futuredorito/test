@@ -1,4 +1,1 @@
-var text:FlxText = new FlxText(10, 10, FlxG.width, updateVersion);
-			text.setFormat(null, 24, FlxColor.CYAN, "center");
-            text.y = FlxG.height / 2 - text.height / 2;
-			add(text);
+text.text = updateVersion;
