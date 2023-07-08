@@ -1,4 +1,4 @@
 text.text = 'ring never paid me the nitro
 for being the source coder :E';
 text.x += 200;
-text.setFormat(Assets.getFont("assets/fonts/oldvcr.ttf"))
+text.setFormat("assets/fonts/oldvcr.ttf")
