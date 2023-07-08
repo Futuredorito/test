@@ -1,5 +1,3 @@
 text.text = 'ring never paid me the nitro
 for being the source coder :E';
 text.x += 200;
-text.setFormat("assets/fonts/oldvcr.ttf")
-text.scale(2.5,2.5);
