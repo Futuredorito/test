@@ -1,2 +1,3 @@
-text.text = 'hi xolsbowls thanks for playing the mod';
+text.text = 'the duck is coming for you.';
 text.x += 200;
+text.size = 40;
