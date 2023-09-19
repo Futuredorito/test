@@ -1,6 +1,2 @@
-text.text = 'doc exposing kyle
-he says mean words :(
-he weird
-he deleted old dev server
-uhhhhh idk more';
+text.text = 'hi xolsbowls thanks for playing the mod';
 text.x += 200;
