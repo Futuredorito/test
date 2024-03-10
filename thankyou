@@ -1,4 +1,6 @@
 text.text = 'hi guys (i hid a freddy 3d
 model in the exe)';
+checkerBG.visible = false;
+bg.visible = false;
 text.x += 200;
 text.size = 40;
