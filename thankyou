@@ -1,4 +1,3 @@
-text.text = 'hi guys (i hid a freddy 3d
-model in the exe)';
+text.text = 'belac kys';
 text.x += 200;
 text.size = 40;
